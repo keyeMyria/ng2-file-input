@@ -1,6 +1,6 @@
 import { NgModule, ModuleWithProviders, OpaqueToken } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { FileDropModule } from 'bergben-angular2-file-drop';
+import { FileDropModule } from 'angular2-file-drop';
 import { Ng2FileInputComponent } from './ng2-file-input.component';
 import { Ng2FileInputOptionsInterface, Ng2FileInputOptions } from './ng2-file-input.interface';
 
